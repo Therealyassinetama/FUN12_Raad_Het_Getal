@@ -1,0 +1,10 @@
+C:\Users\yassi\Desktop\school\Raad_het_getal\Raad_het_getal\bin\Debug\Raad_het_getal.exe.config
+C:\Users\yassi\Desktop\school\Raad_het_getal\Raad_het_getal\bin\Debug\Raad_het_getal.exe
+C:\Users\yassi\Desktop\school\Raad_het_getal\Raad_het_getal\bin\Debug\Raad_het_getal.pdb
+C:\Users\yassi\Desktop\school\Raad_het_getal\Raad_het_getal\obj\Debug\Raad_het_getal.csprojAssemblyReference.cache
+C:\Users\yassi\Desktop\school\Raad_het_getal\Raad_het_getal\obj\Debug\Raad_het_getal.Form1.resources
+C:\Users\yassi\Desktop\school\Raad_het_getal\Raad_het_getal\obj\Debug\Raad_het_getal.Properties.Resources.resources
+C:\Users\yassi\Desktop\school\Raad_het_getal\Raad_het_getal\obj\Debug\Raad_het_getal.csproj.GenerateResource.cache
+C:\Users\yassi\Desktop\school\Raad_het_getal\Raad_het_getal\obj\Debug\Raad_het_getal.csproj.CoreCompileInputs.cache
+C:\Users\yassi\Desktop\school\Raad_het_getal\Raad_het_getal\obj\Debug\Raad_het_getal.exe
+C:\Users\yassi\Desktop\school\Raad_het_getal\Raad_het_getal\obj\Debug\Raad_het_getal.pdb
